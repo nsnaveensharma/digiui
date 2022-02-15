@@ -12,7 +12,7 @@
 
 </body>
 <script src="https://cdn.tailwindcss.com"></script>
-<script src="src/main.js"></script>
+<script src="src/js/main.js"></script>
 </html>
 
 <?php
